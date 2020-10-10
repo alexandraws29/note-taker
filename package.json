@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Note taker app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandraws29/note-taker.git"
+  },
+  "keywords": [],
+  "author": "Alexandraws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandraws29/note-taker/issues"
+  },
+  "homepage": "https://github.com/alexandraws29/note-taker#readme"
+}
